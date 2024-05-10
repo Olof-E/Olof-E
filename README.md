@@ -21,7 +21,7 @@
 	</picture>
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
 	<picture>
 		<source
 			height=200
