@@ -1,5 +1,44 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<picture>
+		<source
+      		height=200
+      		align="center" 
+      		srcset="https://github-readme-stats.vercel.app/api?username=olof-e&show_icons=true&theme=tokyonight#gh-dark-mode-only"
+      		media="(prefers-color-scheme: dark)"
+    	/>
+	    <source
+	    	height=200
+	    	align="center" 
+	      	srcset="https://github-readme-stats.vercel.app/api?username=olof-e&show_icons=true&theme=default#gh-light-mode-only"
+	      	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	    />
+	    <img src="https://github-readme-stats.vercel.app/api?username=olof-e&show_icons=true" />
+	    &nbsp;
+	    &nbsp;
+	    &nbsp;
+	</picture>
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+	<picture>
+		<source
+			height=200
+			align="center" 
+			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olof-e&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight#gh-dark-mode-only&langs_count=8"
+			media="(prefers-color-scheme: dark)"
+		/>
+		<source
+			height=200
+			align="center" 
+			srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=olof-e&size_weight=0.5&count_weight=0.5&layout=compact&theme=default#gh-light-mode-only&langs_count=8"
+			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+		/>
+		<img src="https://github-readme-stats.vercel.app/api?username=olof-e&show_icons=true" />
+	</picture>
+</a>
+
 <!--
 **Olof-E/Olof-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
